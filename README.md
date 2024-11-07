@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Pat Condon</h1>
-<h3 align="center">Helping organizations effectively and efficiently leverage Salesforce platform👩🏿‍💻</h3>
+<h3 align="center">Helping organizations effectively and efficiently leverage Salesforce platform</h3>
 
 <div align="center">
 
