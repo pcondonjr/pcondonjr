@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me **walters954@salesforcementor.com**> -->
 
-🏅 [8x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
-
 # ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
   <tr style="border:0px;" >
@@ -62,7 +60,7 @@ Here are some ideas to get you started:
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud"/>
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="AI Associate"/>
 </div>
-
+🏅 [8x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
 # ☁ Additional Credentials
 
 <div align="center">
