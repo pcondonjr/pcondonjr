@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </table>
 
 # ☁ Salesforce Credentials
-
+🏅 [8x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
 <div align="center">
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/> 
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" height="100" alt="Advanced Administrator"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud"/>
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="AI Associate"/>
 </div>
-🏅 [8x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
+
 # ☁ Additional Credentials
 
 <div align="center">
