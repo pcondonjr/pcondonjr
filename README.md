@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://static.scrum.org/web/badges/badge-09173b39-cedf-4321-88b6-ce0acdfb5a70.svg" height="100" alt="Scrum Master"/> 
   <img src="https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" height="100" alt="Project Management Professional"/>
-  <img src="https://images.credly.com/size/680x680/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png" height="100" alt="PM Generative AI Overview"/>
+  <img src="https://images.credly.com/size/680x680/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png](https://www.credly.com/badges/b69ca7f9-cb8d-4cd2-b86d-ca33d53d2342/public_url)" height="100" alt="PM Generative AI Overview"/>
 </div>
