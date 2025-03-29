@@ -59,6 +59,11 @@ Here are some ideas to get you started:
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud"/>
    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="AI Associate"/>
 </div>
+<h2>Salesforce Superbadges</h2>
+<p>Check out my Salesforce Superbadges on my Trailblazer profile:</p>
+<a href="https://www.salesforce.com/trailblazer/pcondonjr" target="_blank">
+    <img src="https://c1.sfdcstatic.com/content/dam/web/en_us/trailhead/logos/trailblazer.png" alt="Trailblazer Profile" width="200">
+</a>
 
 # ☁ Additional Credentials
 
