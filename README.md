@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud Consultant"/>
   &nbsp;&nbsp;
-  <img src="./assets/ai-associate-retired.svg" height="100" alt="AI Associate - RETIRED"/>
+  <img src="./ai-associate-retired.svg" height="100" alt="AI Associate - RETIRED"/>
 </p>
 <h2>Salesforce Superbadges</h2>
 <p>Check out my Salesforce Superbadges on my Trailblazer profile:</p>
