@@ -48,21 +48,33 @@ Here are some ideas to get you started:
 </table>
 
 # ☁ Salesforce Credentials
-🏅 [8x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
-<div align="center">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/> 
+🏅 [7x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
+
+<!-- Row 1: 4 badges -->
+<p align="center">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/>
+  &nbsp;&nbsp;
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" height="100" alt="Advanced Administrator"/>
+  &nbsp;&nbsp;
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000" height="100" alt="Platform App Builder"/>
+  &nbsp;&nbsp;
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000B7y1t&oid=00DF0000000gZsu&lastMod=1657181928000" height="100" alt="Business Analyst"/>
-   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtn&oid=00DF0000000gZsu&lastMod=1617268355000" height="100" alt="Service Cloud"/>
-   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtq&oid=00DF0000000gZsu&lastMod=1617267666000" height="100" alt="NonProfit Cloud"/>
-   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud"/>
-   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="AI Associate"/>
-</div>
+</p>
+
+<!-- Row 2: 4 badges (including retired AI Associate) -->
+<p align="center">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtn&oid=00DF0000000gZsu&lastMod=1617268355000" height="100" alt="Service Cloud Consultant"/>
+  &nbsp;&nbsp;
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtq&oid=00DF0000000gZsu&lastMod=1617267666000" height="100" alt="Nonprofit Cloud Consultant"/>
+  &nbsp;&nbsp;
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud Consultant"/>
+  &nbsp;&nbsp;
+  <img src="./assets/ai-associate-retired.svg" height="100" alt="AI Associate - RETIRED"/>
+</p>
 <h2>Salesforce Superbadges</h2>
 <p>Check out my Salesforce Superbadges on my Trailblazer profile:</p>
 <a href="https://www.salesforce.com/trailblazer/pcondonjr" target="_blank">
-    <img src="https://c1.sfdcstatic.com/content/dam/web/en_us/trailhead/logos/trailblazer.png" alt="Trailblazer Profile" width="200">
+    <img src="https://img.shields.io/badge/View_My_Trailblazer_Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer Profile">
 </a>
 
 # ☁ Additional Credentials
@@ -70,5 +82,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://static.scrum.org/web/badges/badge-09173b39-cedf-4321-88b6-ce0acdfb5a70.svg" height="100" alt="Scrum Master"/> 
   <img src="https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" height="100" alt="Project Management Professional"/>
-  <img src="https://images.credly.com/size/680x680/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png](https://www.credly.com/badges/b69ca7f9-cb8d-4cd2-b86d-ca33d53d2342/public_url)" height="100" alt="PM Generative AI Overview"/>
+  <img src="https://images.credly.com/size/680x680/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" height="100" alt="PM Generative AI Overview"/>
 </div>
