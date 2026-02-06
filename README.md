@@ -50,27 +50,20 @@ Here are some ideas to get you started:
 # ☁ Salesforce Credentials
 🏅 [7x Certified Salesforce](https://www.salesforce.com/trailblazer/pcondonjr)
 
-<!-- Row 1: 4 badges -->
-<p align="center">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/>
-  &nbsp;&nbsp;
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" height="100" alt="Advanced Administrator"/>
-  &nbsp;&nbsp;
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000" height="100" alt="Platform App Builder"/>
-  &nbsp;&nbsp;
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000B7y1t&oid=00DF0000000gZsu&lastMod=1657181928000" height="100" alt="Business Analyst"/>
-</p>
-
-<!-- Row 2: 4 badges (including retired AI Associate) -->
-<p align="center">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtn&oid=00DF0000000gZsu&lastMod=1617268355000" height="100" alt="Service Cloud Consultant"/>
-  &nbsp;&nbsp;
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtq&oid=00DF0000000gZsu&lastMod=1617267666000" height="100" alt="Nonprofit Cloud Consultant"/>
-  &nbsp;&nbsp;
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud Consultant"/>
-  &nbsp;&nbsp;
-  <img src="./ai-associate-retired.svg" height="100" alt="AI Associate - RETIRED"/>
-</p>
+<table border="0" align="center">
+  <tr>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/></td>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" height="100" alt="Advanced Administrator"/></td>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000" height="100" alt="Platform App Builder"/></td>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000B7y1t&oid=00DF0000000gZsu&lastMod=1657181928000" height="100" alt="Business Analyst"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtn&oid=00DF0000000gZsu&lastMod=1617268355000" height="100" alt="Service Cloud Consultant"/></td>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtq&oid=00DF0000000gZsu&lastMod=1617267666000" height="100" alt="Nonprofit Cloud Consultant"/></td>
+    <td align="center"><img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtt&oid=00DF0000000gZsu&lastMod=1617274607000" height="100" alt="Education Cloud Consultant"/></td>
+    <td align="center"><img src="./ai-associate-retired.svg" height="120" alt="AI Associate - RETIRED"/></td>
+  </tr>
+</table>
 <h2>Salesforce Superbadges</h2>
 <p>Check out my Salesforce Superbadges on my Trailblazer profile:</p>
 <a href="https://www.salesforce.com/trailblazer/pcondonjr" target="_blank">
